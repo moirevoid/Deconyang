@@ -1,7 +1,7 @@
 # 🚀 Deconyang (데코냥)
 
 ![Discord Bot](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Version](https://img.shields.io/badge/Version-2026.04.27-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2026.05.04-blue?style=for-the-badge)
 
 **데코냥**은 사용자에게 꼭 필요한 유용한 기능들을 제공하는 스마트한 디스코드 봇입니다.
 
@@ -19,6 +19,8 @@
 > [!NOTE]
 > 최신 업데이트 내역이 상단에 기록됩니다.
 
+* **2026.05.04**
+    * 오류 수정
 * **2026.04.27**
     * 광고 게시글에 `[가격/배송비]` 태그가 누락되던 오류 수정
     * 광고 태그의 색상을 변경하여 시인성 개선
